@@ -1,1 +1,10 @@
+daoInter\ProductDaoInter.class
+entity\Category.class
+daoImpl\ProductDaoImpl.class
+entity\Product.class
+entity\Order.class
+Config\Context.class
+daoInter\CategoryDaoInter.class
+entity\Customer.class
 main\Main.class
+Config\AbstractDao.class
